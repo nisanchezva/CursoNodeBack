@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Nicolás Sánchez Vargas"
+	"author": "Nicolás Sánchez Vargas",
+	"description": "BackEnd de prueba con node para el curso de FreeCodeCamp"
 }
